@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+ <div>
+            <table border="2">
+                <h3 class="subtitulosBlack">Novedades</h3>
+                <tr>
+                    <td> <img src="./imagenes/ecommerce.jpeg" title="E-commerce"></td>
+                    <td><img src="./imagenes/identidad e imagen.png" title="Identidad e Imagen"></td>
+                    <td><img src="./imagenes/diseño web.png" title="Diseño Web"></td>
+                </tr>
+                <tr>
+                    <th><h4 class="subtitulosBlack">Nuevas estratégias de e-commerce</h4></th>
+                    <th><h4 class="subtitulosBlack">Claves para una buena identidad corporativa</h4></th>
+                    <th><h4 class="subtitulosBlack">¡El diseño web puede ser algo sencillo!</h4></th>
+                    </tr>
+            </table>
+        </div>
+
+<body>
+</body>
+</html>
